@@ -9,6 +9,8 @@
 要是大家喜欢的话，点个小星星也是可以的哈0v0）
 
 下载之后.exe文件可以执行
+账户：523
+密码：123456
 
 ![2](https://github.com/ErfengV/phoneSystem/blob/main/pic/1.png)![1](https://github.com/ErfengV/phoneSystem/blob/main/pic/2.png)
 
