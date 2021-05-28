@@ -9,5 +9,11 @@
 要是大家喜欢的话，点个小星星也是可以的哈0v0）
 
 下载之后.exe文件可以执行
+账户：523
+密码：123456
 
-![2](D:\手机管理系统\pic\2.png)![1](D:\手机管理系统\pic\1.png)
+![2](https://github.com/ErfengV/phoneSystem/blob/main/pic/1.png)![1](https://github.com/ErfengV/phoneSystem/blob/main/pic/2.png)
+
+![3](https://github.com/ErfengV/phoneSystem/blob/main/pic/3.png)![4](https://github.com/ErfengV/phoneSystem/blob/main/pic/4.png)
+
+ps: 图片可能加载的比较慢，可以去pic目录下面查看文件
